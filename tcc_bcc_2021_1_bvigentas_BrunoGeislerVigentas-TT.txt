@@ -1,0 +1,5 @@
+Instruções de como realizar a importação e build do projeto estão no README.md do projeto 
+que pode ser acesso nos fontes e no github https://github.com/bvigentas/RA-ARvore.
+
+A pasta "Outros" conta com uma arquivo APK da aplicação também, que deve ser adicionada a um
+dispositivo Android para ser executada.
